@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome><![CDATA[Consultas Especializadas na Rede Estadual]]></nome>
+    <sigla>Consultas</sigla>
+    <nomes-populares>
+        <item>Angiologia</item>
+        <item>Cardiologia</item>
+        <item>Oncologia</item>
+    </nomes-populares>
+    <descricao><![CDATA[Consultas especializadas são de competência do estado. e o estado oferta as tecnologias: Angiologia, cardiologia, Oncologia, Neurologia, Nutrição ETC]]></descricao>
+    <contato><![CDATA[Micheline Pitanga 
+(28) 3522-2121
+Michelinepitanga@saude.es.gov.br]]></contato>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Cidadão</tipo>
+            <requisitos><![CDATA[* Para pacientes em estado grave que não pode ser encaminhado ao núcleo, deverá ser encaminhado ao Pronto Socorro dos Hospitais Referências
+* Para Pacientes com necessidade especiais, a presença de um acompanhante é necessaŕia]]></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="3" unidade="meses"/>
+        <descricao/>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa>
+            <titulo>Marcação de Consultas Especializadas</titulo>
+            <descricao><![CDATA[A Marcação de Consultas de casos novos encaminhados da rede básica, através da AMA.]]></descricao>
+            <documentos>
+                <default>
+                    <item>Guia de Referência devidamente Preenchido</item>
+                    <item>Histórico do Paciente</item>
+                </default>
+                <caso descricao="Consulta de Retorno">
+                    <item>Solicitação de retorno feita pelo médico que atendeu</item>
+                </caso>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Central de Marcação de Consultas de Pancas]]></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Central de Marcação de Consultas de Cachoeiro]]></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Central de Marcações de Anchieta]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Pegar o comprovante na AMA</titulo>
+            <descricao><![CDATA[Para confirmação do agendamento pegar o comprovante na AMA]]></descricao>
+            <documentos>
+                <default>
+                    <item>Guia de Solicitação</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Central de Marcação de Consultas de Cachoeiro]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Comparecer a Visita</titulo>
+            <descricao><![CDATA[Ir ao local indicado na etapa anterior munido da documentação solicitada]]></descricao>
+            <documentos>
+                <default>
+                    <item>Guia de agendamento</item>
+                    <item>Histórico</item>
+                    <item>CPF e RG</item>
+                    <item>Cartão Nacional SUS</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[CRE de Cachoeiro de Itapemirim
+Avenida Francisco Lacerda de Aguiar, s/n, Bairro Gilberto Machado.]]></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[CRE de Cachoeiro de Itapemirim
+Avenida Francisco Lacerda de Aguiar, s/n, Bairro Gilberto Machado.]]></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[CRE de Cachoeiro de Itapemirim
+Avenida Francisco Lacerda de Aguiar, s/n, Bairro Gilberto Machado.]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="https://api.es.gov.br/organograma/13306"/>
+    <segmentos-da-sociedade>
+        <item>Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse>
+        <item>Medicamentos e aparelhos</item>
+        <item>Saúde</item>
+        <item>Atendimento básico</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item>Consulta Especializada</item>
+        <item>Angiologia</item>
+        <item>Coração</item>
+        <item>infarto</item>
+        <item>Angiologista</item>
+    </palavras-chave>
+    <legislacoes>
+        <item><![CDATA[SUS]]></item>
+    </legislacoes>
+</servico>
