@@ -56,7 +56,18 @@
                 <default/>
             </documentos>
             <custos>
-                <default/>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Exame Psicológico]]></descricao>
+                        <moeda/>
+                        <valor>91,57</valor>
+                    </custo>
+                    <custo>
+                        <descricao><![CDATA[Exame Médico]]></descricao>
+                        <moeda/>
+                        <valor>76,80</valor>
+                    </custo>
+                </default>
             </custos>
             <canais-de-prestacao>
                 <default/>
