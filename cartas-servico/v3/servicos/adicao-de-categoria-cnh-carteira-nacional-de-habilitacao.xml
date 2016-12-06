@@ -19,7 +19,7 @@
     <etapas>
         <etapa>
             <titulo>Dirigir-se a um Centro de Formação de Condutores (CFC)</titulo>
-            <descricao><![CDATA[com os documentos necessários]]></descricao>
+            <descricao><![CDATA[documentos necessários]]></descricao>
             <documentos>
                 <default>
                     <item>Carteira de Identidade - Original e Cópia Simples</item>
@@ -76,6 +76,32 @@
                         <valor>227,45</valor>
                     </custo>
                 </default>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Realizar curso prático de direção veicular</titulo>
+            <descricao><![CDATA[om no mínimo 15 (quinze) horas/aula cada no CFC]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Realizar prova prática de direção veicular</titulo>
+            <descricao><![CDATA[em data marcada pelo próprio CFC]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
             </custos>
             <canais-de-prestacao>
                 <default/>
