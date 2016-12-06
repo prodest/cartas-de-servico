@@ -107,6 +107,32 @@
                 <default/>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Se APROVADO</titulo>
+            <descricao><![CDATA[aguardar o recebimento da CNH no endereço informado]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Se REPROVADO</titulo>
+            <descricao><![CDATA[marcar, através do CFC, nova prova após 15 (quinze) dias, mediante pagamento da respectiva taxa]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id="https://api.es.gov.br/organograma/11298"/>
     <segmentos-da-sociedade/>
