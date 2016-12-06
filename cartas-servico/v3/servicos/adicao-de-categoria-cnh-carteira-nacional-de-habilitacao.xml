@@ -50,8 +50,8 @@
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo/>
-            <descricao/>
+            <titulo>Dirigir-se a uma Clínica Credenciada para a realização de exames de sanidade física e mental, bem como a avaliação psicológica</titulo>
+            <descricao><![CDATA[A avaliação psicológica é realizada por aqueles que exercem atividade remunerada]]></descricao>
             <documentos>
                 <default/>
             </documentos>
