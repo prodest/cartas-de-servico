@@ -24,22 +24,41 @@
                 <default>
                     <item>Carteira de Identidade - Original e Cópia Simples</item>
                     <item>CNH - Carteira Nacional de Habilitação</item>
+                    <item>Comprovante de Residência</item>
+                    <item>CPF - Cadastro de Pessoa Física</item>
+                    <item>Foto 3x4</item>
                 </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Dirigir-se aos pontos para coleta da biometria do Detran</titulo>
+            <descricao><![CDATA[Dirigir-se após aberto o processo]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo/>
+            <descricao/>
+            <documentos>
+                <default/>
             </documentos>
             <custos>
                 <default>
                     <custo>
-                        <descricao><![CDATA[Exame Médico]]></descricao>
-                        <moeda/>
-                        <valor>76,80</valor>
-                    </custo>
-                    <custo>
-                        <descricao><![CDATA[Exame Psicológico]]></descricao>
-                        <moeda/>
-                        <valor>91,57</valor>
-                    </custo>
-                    <custo>
-                        <descricao><![CDATA[Taxa de Serviço do DETRAN]]></descricao>
+                        <descricao><![CDATA[Taxa de serviço DETRAN]]></descricao>
                         <moeda/>
                         <valor>227,45</valor>
                     </custo>
