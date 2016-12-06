@@ -56,6 +56,19 @@
                 <default/>
             </documentos>
             <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Efetuar o pagamento da taxa de serviço do Detran-ES</titulo>
+            <descricao><![CDATA[Se o condutor for considerado apto]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
                 <default>
                     <custo>
                         <descricao><![CDATA[Taxa de serviço DETRAN]]></descricao>
