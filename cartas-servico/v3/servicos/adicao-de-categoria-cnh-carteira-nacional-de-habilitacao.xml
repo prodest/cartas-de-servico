@@ -4,7 +4,7 @@
     <sigla/>
     <nomes-populares/>
     <descricao><![CDATA[Permite ao condutor de veículo automotor a inclusão de habilitação diferente da categoria atual.]]></descricao>
-    <contato/>
+    <contato><![CDATA[Caso o documento não seja recebido no prazo acima, entrar em contato com o Detran pelo número 154]]></contato>
     <gratuito>false</gratuito>
     <solicitantes>
         <solicitante>
