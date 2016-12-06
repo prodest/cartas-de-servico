@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome><![CDATA[Adição de categoria CNH (Carteira Nacional de Habilitação)]]></nome>
+    <sigla/>
+    <nomes-populares/>
+    <descricao><![CDATA[Permite ao condutor de veículo automotor a inclusão de habilitação diferente da categoria atual.]]></descricao>
+    <contato/>
+    <gratuito>false</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>O Condutor</tipo>
+            <requisitos><![CDATA[O condutor deve possuir carteira nacional de habilitação.]]></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="5" unidade="dias-uteis"/>
+        <descricao/>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa>
+            <titulo>Dirigir-se a um Centro de Formação de Condutores (CFC)</titulo>
+            <descricao><![CDATA[com os documentos necessários]]></descricao>
+            <documentos>
+                <default>
+                    <item>Carteira de Identidade - Original e Cópia Simples</item>
+                    <item>CNH - Carteira Nacional de Habilitação</item>
+                </default>
+            </documentos>
+            <custos>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Exame Médico]]></descricao>
+                        <moeda/>
+                        <valor>76,80</valor>
+                    </custo>
+                    <custo>
+                        <descricao><![CDATA[Exame Psicológico]]></descricao>
+                        <moeda/>
+                        <valor>91,57</valor>
+                    </custo>
+                    <custo>
+                        <descricao><![CDATA[Taxa de Serviço do DETRAN]]></descricao>
+                        <moeda/>
+                        <valor>227,45</valor>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id=""/>
+    <segmentos-da-sociedade/>
+    <areas-de-interesse>
+        <item>Transporte Rodoviário</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item>carteira de motorista</item>
+        <item>adicionar categoria</item>
+        <item>carteira nacional de habilitação</item>
+    </palavras-chave>
+    <legislacoes/>
+</servico>
