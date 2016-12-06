@@ -94,7 +94,7 @@
         </etapa>
         <etapa>
             <titulo>Realizar curso prático de direção veicular</titulo>
-            <descricao><![CDATA[om no mínimo 15 (quinze) horas/aula cada no CFC]]></descricao>
+            <descricao><![CDATA[Com no mínimo 15 (quinze) horas/aula cada no CFC]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -107,7 +107,7 @@
         </etapa>
         <etapa>
             <titulo>Realizar prova prática de direção veicular</titulo>
-            <descricao><![CDATA[em data marcada pelo próprio CFC]]></descricao>
+            <descricao><![CDATA[Em data marcada pelo próprio CFC]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -119,8 +119,8 @@
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Se APROVADO</titulo>
-            <descricao><![CDATA[aguardar o recebimento da CNH no endereço informado]]></descricao>
+            <titulo>Se aprovado</titulo>
+            <descricao><![CDATA[Aguardar o recebimento da CNH no endereço informado]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -132,8 +132,8 @@
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Se REPROVADO</titulo>
-            <descricao><![CDATA[marcar, através do CFC, nova prova após 15 (quinze) dias, mediante pagamento da respectiva taxa]]></descricao>
+            <titulo>Se reprovado</titulo>
+            <descricao><![CDATA[Marcar, através do CFC, nova prova após 15 (quinze) dias, mediante pagamento da respectiva taxa]]></descricao>
             <documentos>
                 <default/>
             </documentos>
