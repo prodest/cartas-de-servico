@@ -23,7 +23,21 @@
     <tempo-total-estimado>
         <descricao/>
     </tempo-total-estimado>
-    <etapas/>
+    <etapas>
+        <etapa>
+            <titulo>Dirigir-se, SEM o veículo, para a Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
+            <descricao><![CDATA[Munido dos documentos necessários para dar início ao serviço desejado.]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
