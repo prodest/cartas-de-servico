@@ -21,19 +21,13 @@
     </tempo-total-estimado>
     <etapas>
         <etapa>
-            <titulo/>
-            <descricao/>
+            <titulo>Dirigir-se ao Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
+            <descricao><![CDATA[munido dos documentos necessários para solicitar o serviço desejado e retirar o DUA para pagamento da taxa de serviço]]></descricao>
             <documentos>
                 <default/>
             </documentos>
             <custos>
-                <default>
-                    <custo>
-                        <descricao><![CDATA[axa de serviço DETRAN/ES]]></descricao>
-                        <moeda/>
-                        <valor>29,54</valor>
-                    </custo>
-                </default>
+                <default/>
             </custos>
             <canais-de-prestacao>
                 <default/>
