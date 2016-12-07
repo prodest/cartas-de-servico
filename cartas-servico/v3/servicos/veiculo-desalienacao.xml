@@ -7,7 +7,7 @@
 
 OBSERVAÇÃO:
 Será emitido um novo documento CRV/CRLV em que será retirada a informação de que o veículo tinha algum tipo de restrição.]]></descricao>
-    <contato/>
+    <contato><![CDATA[154]]></contato>
     <gratuito>false</gratuito>
     <solicitantes>
         <solicitante>
@@ -118,7 +118,12 @@ Será emitido um novo documento CRV/CRLV em que será retirada a informação de
     </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
-    <areas-de-interesse/>
-    <palavras-chave/>
+    <areas-de-interesse>
+        <item>Transporte Rodoviário</item>
+        <item>Transportes</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item>Desalienação</item>
+    </palavras-chave>
     <legislacoes/>
 </servico>
