@@ -35,7 +35,7 @@ A procuração NÃO precisa ser especifica para Certidão de Prontuário (Nada C
     <etapas>
         <etapa>
             <titulo>Dirigir-se ao Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
-            <descricao><![CDATA[munido dos documentos necessários para solicitar o serviço desejado e retirar o DUA para pagamento da taxa de serviço]]></descricao>
+            <descricao><![CDATA[Tendo em mãos os documentos necessários para solicitar o serviço desejado e retirar o DUA para pagamento da taxa de serviço]]></descricao>
             <documentos>
                 <default/>
             </documentos>
