@@ -63,6 +63,25 @@
                 <default/>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Dirigir-se à rede bancária autorizada e efetuar pagamento do DUA da Polícia Civil e do Detran</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Taxa de Serviço]]></descricao>
+                        <moeda/>
+                        <valor>192,00</valor>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
