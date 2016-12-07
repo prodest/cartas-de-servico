@@ -44,6 +44,32 @@ Será emitido um novo documento CRV/CRLV em que será retirada a informação de
                 <default/>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Realizar vistoria do DETRAN</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular) de domicílio ou residência munido dos documentos abaixo para obter o Nada Consta de Multas e documento de pagamento</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
