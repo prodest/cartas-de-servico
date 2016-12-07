@@ -88,6 +88,19 @@
                 <default/>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Retornar à Ciretran ou Pav (Posto de Atendimento Veicular) para finalizar o processo e pegar o documento (2ª via CRV)</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
