@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome><![CDATA[Definitiva CNH Carteira Nacional de Habilitação]]></nome>
+    <sigla/>
+    <nomes-populares/>
+    <descricao><![CDATA[Troca da Carteira Provisória, válida por um ano, pela Carteira Nacional de Habilitação (CNH) definitiva.
+
+Observação:
+
+O condutor só poderá dirigir com o documento vencido por no máximo 30 dias.]]></descricao>
+    <contato/>
+    <gratuito>false</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>O condutor</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <descricao/>
+    </tempo-total-estimado>
+    <etapas/>
+    <orgao id=""/>
+    <segmentos-da-sociedade/>
+    <areas-de-interesse/>
+    <palavras-chave/>
+    <legislacoes/>
+</servico>
