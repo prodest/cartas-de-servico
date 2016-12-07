@@ -4,7 +4,7 @@
     <sigla/>
     <nomes-populares/>
     <descricao><![CDATA[Certidão emitida pelo DETRAN que comprova que um veículo pertence ou pertenceu ao requerente, por determinado período.]]></descricao>
-    <contato/>
+    <contato><![CDATA[154]]></contato>
     <gratuito>false</gratuito>
     <solicitantes>
         <solicitante>
@@ -70,9 +70,16 @@
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id=""/>
+    <orgao id="https://api.es.gov.br/organograma/11298"/>
     <segmentos-da-sociedade/>
-    <areas-de-interesse/>
-    <palavras-chave/>
+    <areas-de-interesse>
+        <item>Transporte Rodoviário</item>
+        <item>Transportes</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item>Registro de veículos</item>
+        <item>Certidão</item>
+        <item>Departamento Estadual de Trânsito</item>
+    </palavras-chave>
     <legislacoes/>
 </servico>
