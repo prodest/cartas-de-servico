@@ -4,7 +4,7 @@
     <sigla/>
     <nomes-populares/>
     <descricao><![CDATA[Recebimento no protocolo do DETRAN, na Ciretran ou Pav (Posto de Atendimento Veicular) dos documentos necessários para iniciar o processo administrativo visando o retorno do direito de dirigir.]]></descricao>
-    <contato/>
+    <contato><![CDATA[http://www.detran.es.gov.br/]]></contato>
     <gratuito>true</gratuito>
     <solicitantes>
         <solicitante>
