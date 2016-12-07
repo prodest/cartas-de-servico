@@ -94,6 +94,32 @@
                 <default/>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Realizar curso prático de direção veicular, com no mínimo 15 (quinze) horas/aula cada no CFC</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>ealizar prova prática de direção veicular, em data marcada pelo próprio CFC</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
