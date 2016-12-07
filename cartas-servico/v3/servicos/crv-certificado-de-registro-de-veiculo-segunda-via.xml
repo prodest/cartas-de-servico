@@ -37,6 +37,32 @@
                 <default/>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo>Realizar vistoria</titulo>
+            <descricao><![CDATA[Da Polícia Civil - Furtos e Roubos (somente para os casos de perda, extravio ou roubo e furto) e do DETRAN]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Dirigir-se à recepção à Ciretran ou Pav (Posto de Atendimento Veicular), pegar senha para atendimento e abertura do processo;</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
