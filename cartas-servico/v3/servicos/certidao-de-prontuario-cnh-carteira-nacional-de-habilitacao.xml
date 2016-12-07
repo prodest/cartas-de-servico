@@ -19,7 +19,27 @@
     <tempo-total-estimado>
         <descricao/>
     </tempo-total-estimado>
-    <etapas/>
+    <etapas>
+        <etapa>
+            <titulo/>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[axa de serviço DETRAN/ES]]></descricao>
+                        <moeda/>
+                        <valor>29,54</valor>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
