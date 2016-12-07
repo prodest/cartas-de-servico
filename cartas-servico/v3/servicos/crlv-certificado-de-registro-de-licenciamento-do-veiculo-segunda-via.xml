@@ -21,7 +21,7 @@
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <descricao/>
+        <descricao><![CDATA[Após pagamento das taxas e retorno ao órgão]]></descricao>
     </tempo-total-estimado>
     <etapas>
         <etapa>
@@ -83,7 +83,7 @@
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id=""/>
+    <orgao id="https://api.es.gov.br/organograma/11298"/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
     <palavras-chave/>
