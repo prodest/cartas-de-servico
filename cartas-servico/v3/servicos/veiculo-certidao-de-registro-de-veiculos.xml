@@ -21,9 +21,42 @@
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <descricao><![CDATA[Após pagamento das taxas e retorno ao órgão.]]></descricao>
+        <descricao/>
     </tempo-total-estimado>
-    <etapas/>
+    <etapas>
+        <etapa>
+            <titulo>Dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular), pegar senha para atendimento, e receber DUA para pagamento da taxa do serviço</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Dirigir-se à rede bancária autorizada e efetuar pagamento do DUA</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Taxa de Serviço]]></descricao>
+                        <moeda/>
+                        <valor>20,68</valor>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
