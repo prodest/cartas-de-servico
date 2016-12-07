@@ -64,6 +64,30 @@
                 <default/>
             </canais-de-prestacao>
         </etapa>
+        <etapa>
+            <titulo/>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Exame Médico]]></descricao>
+                        <moeda/>
+                        <valor>76,80</valor>
+                    </custo>
+                    <custo>
+                        <descricao><![CDATA[Exame Psicológico]]></descricao>
+                        <moeda/>
+                        <valor>91,57</valor>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
     </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
