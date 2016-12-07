@@ -108,7 +108,7 @@
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>ealizar prova prática de direção veicular, em data marcada pelo próprio CFC</titulo>
+            <titulo>Realizar prova prática de direção veicular, em data marcada pelo próprio CFC</titulo>
             <descricao/>
             <documentos>
                 <default/>
@@ -121,7 +121,7 @@
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Se REPROVADO, marcar, através do CFC, nova prova após 15 (quinze) dias, mediante pagamento da respectiva taxa</titulo>
+            <titulo>Se reprovado, marcar, através do CFC, nova prova após 15 (quinze) dias, mediante pagamento da respectiva taxa</titulo>
             <descricao/>
             <documentos>
                 <default/>
@@ -134,9 +134,14 @@
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id=""/>
+    <orgao id="https://api.es.gov.br/organograma/11298"/>
     <segmentos-da-sociedade/>
-    <areas-de-interesse/>
-    <palavras-chave/>
+    <areas-de-interesse>
+        <item>Transporte Rodoviário</item>
+        <item>Transportes</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item>Habilitação</item>
+    </palavras-chave>
     <legislacoes/>
 </servico>
