@@ -44,7 +44,13 @@
                 <default/>
             </documentos>
             <custos>
-                <default/>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Taxa de Vistoria Polícia Civil]]></descricao>
+                        <moeda/>
+                        <valor>121,11</valor>
+                    </custo>
+                </default>
             </custos>
             <canais-de-prestacao>
                 <default/>
