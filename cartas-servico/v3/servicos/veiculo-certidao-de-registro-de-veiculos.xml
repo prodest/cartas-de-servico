@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome><![CDATA[Veículo - certidão de registro de veículos]]></nome>
+    <sigla/>
+    <nomes-populares/>
+    <descricao><![CDATA[Certidão emitida pelo DETRAN que comprova que um veículo pertence ou pertenceu ao requerente, por determinado período.]]></descricao>
+    <contato/>
+    <gratuito>false</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Proprietário do Veículo - Pessoa Física</tipo>
+            <requisitos/>
+        </solicitante>
+        <solicitante>
+            <tipo>Proprietário do Veículo - Pessoa Jurídica</tipo>
+            <requisitos/>
+        </solicitante>
+        <solicitante>
+            <tipo>Terceiros</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <descricao><![CDATA[Após pagamento das taxas e retorno ao órgão.]]></descricao>
+    </tempo-total-estimado>
+    <etapas/>
+    <orgao id=""/>
+    <segmentos-da-sociedade/>
+    <areas-de-interesse/>
+    <palavras-chave/>
+    <legislacoes/>
+</servico>
