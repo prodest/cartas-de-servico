@@ -30,7 +30,21 @@ Será emitido um novo documento CRV/CRLV em que será retirada a informação de
     <tempo-total-estimado>
         <descricao/>
     </tempo-total-estimado>
-    <etapas/>
+    <etapas>
+        <etapa>
+            <titulo>Dirigir-se, com seu veículo, para a área de Vistoria do Detran, munido dos documentos necessários para dar início ao serviço desejado.</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
