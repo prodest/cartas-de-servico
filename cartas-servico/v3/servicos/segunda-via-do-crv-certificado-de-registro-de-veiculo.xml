@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>Segunda via do CRV (Certificado de Registro de Veículo)</nome>
+    <nome><![CDATA[Segunda via do CRV (Certificado de Registro de Veículo)]]></nome>
     <sigla/>
     <nomes-populares/>
     <descricao><![CDATA[Fornecimento de segunda via do Certificado de Registro do Veículo, por motivo de rasura, perda ou roubo.]]></descricao>
