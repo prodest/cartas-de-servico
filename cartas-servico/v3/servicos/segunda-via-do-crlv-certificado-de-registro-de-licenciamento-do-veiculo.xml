@@ -25,7 +25,7 @@
     </tempo-total-estimado>
     <etapas>
         <etapa>
-            <titulo>Dirigir-se, SEM o veículo, para a Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
+            <titulo>Dirigir-se, sem o veículo, para a Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
             <descricao><![CDATA[Tendo em mãos os documentos necessários para dar início ao serviço desejado.]]></descricao>
             <documentos>
                 <default/>
@@ -38,7 +38,7 @@
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Dirigir-se à recepção do Ciretran ou Pav, retirar senha para atendimento e abertura do processo;</titulo>
+            <titulo>Dirigir-se à recepção do Ciretran ou Pav, retirar senha para atendimento e abertura do processo</titulo>
             <descricao/>
             <documentos>
                 <default/>
@@ -51,7 +51,7 @@
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Dirigir-se à rede bancária autorizada e efetuar pagamento do DUA/DETRAN</titulo>
+            <titulo>Dirigir-se à rede bancária autorizada e efetuar pagamento do Dua/Detran</titulo>
             <descricao/>
             <documentos>
                 <default/>
@@ -85,7 +85,10 @@
     </etapas>
     <orgao id="https://api.es.gov.br/organograma/11298"/>
     <segmentos-da-sociedade/>
-    <areas-de-interesse/>
+    <areas-de-interesse>
+        <item>Transporte Rodoviário</item>
+        <item>Transportes</item>
+    </areas-de-interesse>
     <palavras-chave/>
     <legislacoes/>
 </servico>
