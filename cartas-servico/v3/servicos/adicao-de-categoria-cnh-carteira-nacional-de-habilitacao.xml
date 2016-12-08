@@ -138,7 +138,13 @@
                 <default/>
             </documentos>
             <custos>
-                <default/>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Taxa de serviço Detran]]></descricao>
+                        <moeda/>
+                        <valor>227,45</valor>
+                    </custo>
+                </default>
             </custos>
             <canais-de-prestacao>
                 <default/>
