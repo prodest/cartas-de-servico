@@ -4,7 +4,7 @@
     <sigla/>
     <nomes-populares/>
     <descricao><![CDATA[Comunicação feita ao DETRAN de que o veículo foi vendido]]></descricao>
-    <contato/>
+    <contato><![CDATA[154]]></contato>
     <gratuito>true</gratuito>
     <solicitantes>
         <solicitante>
@@ -51,9 +51,15 @@
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id=""/>
+    <orgao id="https://api.es.gov.br/organograma/11298"/>
     <segmentos-da-sociedade/>
-    <areas-de-interesse/>
-    <palavras-chave/>
+    <areas-de-interesse>
+        <item>Transporte Rodoviário</item>
+        <item>Transportes</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item>venda</item>
+        <item>veículo</item>
+    </palavras-chave>
     <legislacoes/>
 </servico>
