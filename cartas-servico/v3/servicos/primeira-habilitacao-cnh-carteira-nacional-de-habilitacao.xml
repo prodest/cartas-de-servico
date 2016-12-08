@@ -22,7 +22,7 @@
     <etapas>
         <etapa>
             <titulo>Dirigir-se a um Centro de Formação de Condutores (CFC)</titulo>
-            <descricao><![CDATA[com os documentos necessários]]></descricao>
+            <descricao><![CDATA[Tendo em mãos os documentos necessários]]></descricao>
             <documentos>
                 <default>
                     <item>Carteira de Identidade</item>
