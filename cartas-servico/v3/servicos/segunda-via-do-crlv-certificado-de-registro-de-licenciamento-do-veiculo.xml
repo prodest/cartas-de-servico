@@ -26,7 +26,7 @@
     <etapas>
         <etapa>
             <titulo>Dirigir-se, SEM o veículo, para a Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
-            <descricao><![CDATA[Munido dos documentos necessários para dar início ao serviço desejado.]]></descricao>
+            <descricao><![CDATA[Tendo em mãos os documentos necessários para dar início ao serviço desejado.]]></descricao>
             <documentos>
                 <default/>
             </documentos>
