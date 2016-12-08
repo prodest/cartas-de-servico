@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome>Primeira habilitação CNH (Carteira Nacional de Habilitação)</nome>
+    <sigla/>
+    <nomes-populares/>
+    <descricao><![CDATA[Autorização para conduzir veículos pelo período de um ano, concedidos aos candidatos, após a realização e aprovação nos exames preliminares exigidos. Após este período, a CNH será expedida se o condutor não houver cometido nenhuma infração de natureza grave ou gravíssima, ou não seja reincidente em infração de natureza média.]]></descricao>
+    <contato><![CDATA[Caso o documento não seja recebido no prazo acima, entrar em contato com o Detran pelo número 154]]></contato>
+    <gratuito>false</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Candidato</tipo>
+            <requisitos><![CDATA[- Ser penalmente imputável;
+- Saber ler e escrever;
+- Possuir documento de identidade;
+- Possuir CPF.]]></requisitos>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="5" unidade="dias-uteis"/>
+        <descricao/>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa>
+            <titulo>Dirigir-se a um Centro de Formação de Condutores (CFC)</titulo>
+            <descricao><![CDATA[com os documentos necessários]]></descricao>
+            <documentos>
+                <default>
+                    <item>Carteira de Identidade</item>
+                    <item>Comprovante de Residência</item>
+                    <item>CPF - Cadastro de Pessoa Física</item>
+                    <item>Foto 3x4</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Dirigir-se aos pontos para coleta da biometria do Detran</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Dirigir-se a uma Clínica Credenciada para a realização de exames de sanidade física e mental, bem como a avaliação psicológica (se exercer atividade remunerada)</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Exame Psicológico]]></descricao>
+                        <moeda/>
+                        <valor>91,57</valor>
+                    </custo>
+                    <custo>
+                        <descricao><![CDATA[Exame Médico]]></descricao>
+                        <moeda/>
+                        <valor>76,80</valor>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Se considerado apto, efetuar o pagamento da taxa de serviço do Detran-ES</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Taxa de serviço DETRAN]]></descricao>
+                        <moeda/>
+                        <valor>319,02</valor>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Realizar curso prático de direção veicular, com no mínimo 15 (quinze) horas/aula cada no CFC</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Realizar prova prática de direção veicular, em data marcada pelo próprio CFC</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Se reprovado, marcar, através do CFC, nova prova após 15 (quinze) dias, mediante pagamento da respectiva taxa</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="https://api.es.gov.br/organograma/11298"/>
+    <segmentos-da-sociedade/>
+    <areas-de-interesse>
+        <item>Transporte Rodoviário</item>
+        <item>Transportes</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item>Habilitação</item>
+    </palavras-chave>
+    <legislacoes/>
+</servico>
