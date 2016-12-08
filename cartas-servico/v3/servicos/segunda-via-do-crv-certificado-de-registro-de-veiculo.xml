@@ -26,7 +26,7 @@
     <etapas>
         <etapa>
             <titulo>Dirigir-se, com seu veículo, para a área de Vistoria do Detran</titulo>
-            <descricao><![CDATA[Munido dos documentos necessários para dar início ao serviço solicitado.]]></descricao>
+            <descricao><![CDATA[Tendo em mãos os documentos necessários para dar início ao serviço solicitado.]]></descricao>
             <documentos>
                 <default/>
             </documentos>
