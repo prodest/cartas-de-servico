@@ -23,7 +23,34 @@
     <tempo-total-estimado>
         <descricao/>
     </tempo-total-estimado>
-    <etapas/>
+    <etapas>
+        <etapa>
+            <titulo>O proprietário vendedor do veículo deve dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
+            <descricao><![CDATA[Para protocolar requerimento solicitando o serviço]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Com o número de protocolo o cidadão poderá acompanhar seu processo através do Disque Detran 154 ou no site do Detran</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
