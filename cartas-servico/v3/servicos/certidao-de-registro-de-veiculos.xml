@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome>Certidão de registro de veículos</nome>
+    <sigla/>
+    <nomes-populares/>
+    <descricao><![CDATA[Certidão emitida pelo DETRAN que comprova que um veículo pertence ou pertenceu ao requerente, por determinado período.]]></descricao>
+    <contato><![CDATA[154]]></contato>
+    <gratuito>false</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Proprietário do Veículo - Pessoa Física</tipo>
+            <requisitos/>
+        </solicitante>
+        <solicitante>
+            <tipo>Proprietário do Veículo - Pessoa Jurídica</tipo>
+            <requisitos/>
+        </solicitante>
+        <solicitante>
+            <tipo>Terceiros</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <descricao/>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa>
+            <titulo>Dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular), pegar senha para atendimento, e receber DUA para pagamento da taxa do serviço</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Dirigir-se à rede bancária autorizada e efetuar pagamento do DUA</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Taxa de Serviço]]></descricao>
+                        <moeda/>
+                        <valor>20,68</valor>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Retornar ao órgão para protocolar requerimento com finalidade específica, finalizar o processo e receber a certidão</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="https://api.es.gov.br/organograma/11298"/>
+    <segmentos-da-sociedade/>
+    <areas-de-interesse>
+        <item>Transporte Rodoviário</item>
+        <item>Transportes</item>
+    </areas-de-interesse>
+    <palavras-chave>
+        <item>Registro de veículos</item>
+        <item>Certidão</item>
+        <item>Departamento Estadual de Trânsito</item>
+    </palavras-chave>
+    <legislacoes/>
+</servico>
