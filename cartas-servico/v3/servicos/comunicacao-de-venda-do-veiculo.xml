@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome><![CDATA[Comunicação de venda do veículo]]></nome>
+    <sigla/>
+    <nomes-populares/>
+    <descricao><![CDATA[Comunicação feita ao DETRAN de que o veículo foi vendido]]></descricao>
+    <contato/>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Terceiros</tipo>
+            <requisitos/>
+        </solicitante>
+        <solicitante>
+            <tipo>Proprietário do Veículo - Pessoa Física</tipo>
+            <requisitos/>
+        </solicitante>
+        <solicitante>
+            <tipo>Proprietário do Veículo - Pessoa Jurídica</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <descricao/>
+    </tempo-total-estimado>
+    <etapas/>
+    <orgao id=""/>
+    <segmentos-da-sociedade/>
+    <areas-de-interesse/>
+    <palavras-chave/>
+    <legislacoes/>
+</servico>
