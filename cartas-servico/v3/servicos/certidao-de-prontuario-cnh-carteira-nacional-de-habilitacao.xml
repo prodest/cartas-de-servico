@@ -79,9 +79,12 @@ A procuração NÃO precisa ser especifica para Certidão de Prontuário (Nada C
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id=""/>
+    <orgao id="https://api.es.gov.br/organograma/11298"/>
     <segmentos-da-sociedade/>
-    <areas-de-interesse/>
+    <areas-de-interesse>
+        <item>Transporte Rodoviário</item>
+        <item>Transportes</item>
+    </areas-de-interesse>
     <palavras-chave/>
     <legislacoes/>
 </servico>
