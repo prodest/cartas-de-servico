@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>Primeira habilitação CNH (Carteira Nacional de Habilitação)</nome>
+    <nome><![CDATA[Primeira habilitação CNH (Carteira Nacional de Habilitação)]]></nome>
     <sigla/>
     <nomes-populares/>
     <descricao><![CDATA[Autorização para conduzir veículos pelo período de um ano, concedidos aos candidatos, após a realização e aprovação nos exames preliminares exigidos. Após este período, a CNH será expedida se o condutor não houver cometido nenhuma infração de natureza grave ou gravíssima, ou não seja reincidente em infração de natureza média.]]></descricao>
