@@ -45,7 +45,7 @@ Será emitido um novo documento CRV/CRLV em que será retirada a informação de
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Realizar vistoria do DETRAN</titulo>
+            <titulo>Realizar vistoria do Detran</titulo>
             <descricao/>
             <documentos>
                 <default/>
@@ -71,7 +71,7 @@ Será emitido um novo documento CRV/CRLV em que será retirada a informação de
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Dirigir-se à rede bancária autorizada e efetuar pagamento do DUA/DETRAN</titulo>
+            <titulo>Dirigir-se à rede bancária autorizada e efetuar pagamento do Dua/Detran</titulo>
             <descricao/>
             <documentos>
                 <default/>
