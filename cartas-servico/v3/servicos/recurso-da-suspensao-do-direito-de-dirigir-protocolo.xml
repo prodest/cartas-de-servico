@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome><![CDATA[Recurso da suspensão do direito de dirigir -protocolo]]></nome>
+    <nome>Protocolo do recurso da suspensão do direito de dirigir </nome>
     <sigla/>
     <nomes-populares/>
     <descricao><![CDATA[Recebimento no protocolo do DETRAN, na Ciretran ou Pav (Posto de Atendimento Veicular) dos documentos necessários para iniciar o processo administrativo visando o retorno do direito de dirigir.]]></descricao>
