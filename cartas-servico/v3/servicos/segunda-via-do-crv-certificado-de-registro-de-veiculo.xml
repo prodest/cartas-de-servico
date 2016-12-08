@@ -39,7 +39,7 @@
         </etapa>
         <etapa>
             <titulo>Realizar vistoria</titulo>
-            <descricao><![CDATA[Da Polícia Civil - Furtos e Roubos (somente para os casos de perda, extravio ou roubo e furto) e do DETRAN]]></descricao>
+            <descricao><![CDATA[Da Polícia Civil - Furtos e Roubos (somente para os casos de perda, extravio ou roubo e furto) e do Detran]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -57,7 +57,7 @@
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Dirigir-se à recepção à Ciretran ou Pav (Posto de Atendimento Veicular), pegar senha para atendimento e abertura do processo;</titulo>
+            <titulo>Dirigir-se à recepção à Ciretran ou Pav (Posto de Atendimento Veicular), pegar senha para atendimento e abertura do processo</titulo>
             <descricao/>
             <documentos>
                 <default/>
@@ -70,7 +70,7 @@
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Dirigir-se à rede bancária autorizada e efetuar pagamento do DUA da Polícia Civil e do Detran</titulo>
+            <titulo>Dirigir-se à rede bancária autorizada e efetuar pagamento do Dua da Polícia Civil e do Detran</titulo>
             <descricao/>
             <documentos>
                 <default/>
