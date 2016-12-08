@@ -21,8 +21,8 @@
     </tempo-total-estimado>
     <etapas>
         <etapa>
-            <titulo>Dirigir-se á Ciretran ou Pav (Posto de Atendimento Veicular) munido dos documentos necessários para solicitar o serviço desejado</titulo>
-            <descricao/>
+            <titulo>Dirigir-se á Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
+            <descricao><![CDATA[Tendo em mãos os documentos necessários para solicitar o serviço desejado]]></descricao>
             <documentos>
                 <default/>
             </documentos>
