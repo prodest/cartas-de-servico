@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome>Segunda via do CRLV (Certificado de Registro de Licenciamento do Veiculo) </nome>
+    <sigla/>
+    <nomes-populares/>
+    <descricao><![CDATA[Fornecimento de Segunda via do Certificado de Registro de Licenciamento do Veículo por motivo de perda, roubo ou extravio.]]></descricao>
+    <contato/>
+    <gratuito>false</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>Terceiros</tipo>
+            <requisitos/>
+        </solicitante>
+        <solicitante>
+            <tipo>Proprietário do Veículo - Pessoa Física</tipo>
+            <requisitos/>
+        </solicitante>
+        <solicitante>
+            <tipo>Proprietário do Veículo - Pessoa Jurídica</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <descricao><![CDATA[Após pagamento das taxas e retorno ao órgão]]></descricao>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa>
+            <titulo>Dirigir-se, SEM o veículo, para a Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
+            <descricao><![CDATA[Munido dos documentos necessários para dar início ao serviço desejado.]]></descricao>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Dirigir-se à recepção do Ciretran ou Pav, retirar senha para atendimento e abertura do processo;</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Dirigir-se à rede bancária autorizada e efetuar pagamento do DUA/DETRAN</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Taxa de Serviço]]></descricao>
+                        <moeda/>
+                        <valor>118,16</valor>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Retornar à Ciretran ou Pav para finalizar o processo e pegar o documento (segunda via CRLV)</titulo>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="https://api.es.gov.br/organograma/11298"/>
+    <segmentos-da-sociedade/>
+    <areas-de-interesse/>
+    <palavras-chave/>
+    <legislacoes/>
+</servico>
