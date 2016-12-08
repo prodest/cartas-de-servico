@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>Segunda via do CRLV (Certificado de Registro de Licenciamento do Veiculo) </nome>
+    <nome><![CDATA[Segunda via do CRLV (Certificado de Registro de Licenciamento do Veiculo)]]></nome>
     <sigla/>
     <nomes-populares/>
     <descricao><![CDATA[Fornecimento de Segunda via do Certificado de Registro de Licenciamento do Veículo por motivo de perda, roubo ou extravio.]]></descricao>
@@ -21,7 +21,7 @@
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <descricao><![CDATA[Após pagamento das taxas e retorno ao órgão]]></descricao>
+        <descricao/>
     </tempo-total-estimado>
     <etapas>
         <etapa>
