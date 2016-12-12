@@ -55,7 +55,7 @@
         </etapa>
         <etapa>
             <titulo>Retornar ao Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
-            <descricao><![CDATA[com o comprovante da taxa paga, para obter a Certidão]]></descricao>
+            <descricao><![CDATA[Com o comprovante da taxa paga, para obter a Certidão]]></descricao>
             <documentos>
                 <default/>
             </documentos>
