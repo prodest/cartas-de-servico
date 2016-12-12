@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
-    <nome>Certidão de registro de veículos</nome>
+    <nome><![CDATA[Certidão de registro de veículos]]></nome>
     <sigla/>
     <nomes-populares/>
     <descricao><![CDATA[Certidão emitida pelo DETRAN que comprova que um veículo pertence ou pertenceu ao requerente, por determinado período.]]></descricao>
@@ -28,7 +28,16 @@
             <titulo>Dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular), pegar senha para atendimento, e receber DUA para pagamento da taxa do serviço</titulo>
             <descricao/>
             <documentos>
-                <default/>
+                <default>
+                    <item>Carteira de Identidade</item>
+                    <item>CPF - Cadastro de Pessoa Física</item>
+                    <item>Requerimento</item>
+                    <item>Boletim de Ocorrência de Acidente de Trânsito (quando solicitado pelo proprietário pessoa física)</item>
+                    <item>CNPJ  (quando solicitado pelo proprietário pessoa jurídica)</item>
+                    <item>Contrato Social ou Estatuto (quando solicitado pelo proprietário pessoa jurídica)</item>
+                    <item>Documentação do Proprietário do Veículo (quando solicitado por terceiros)</item>
+                    <item>Procuração Pública (quando solicitado por terceiros)</item>
+                </default>
             </documentos>
             <custos>
                 <default/>
