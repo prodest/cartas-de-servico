@@ -30,7 +30,7 @@ A procuração NÃO precisa ser especifica para Certidão de Prontuário (Nada C
     </solicitantes>
     <tempo-total-estimado>
         <ate max="30" unidade="minutos"/>
-        <descricao><![CDATA[Até 30 minutos, após a apresentação da taxa paga]]></descricao>
+        <descricao><![CDATA[Após a apresentação da taxa paga]]></descricao>
     </tempo-total-estimado>
     <etapas>
         <etapa>
