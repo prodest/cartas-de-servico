@@ -9,23 +9,11 @@
     <solicitantes>
         <solicitante>
             <tipo>O condutor</tipo>
-            <requisitos><![CDATA[CNH - Carteira Nacional de Habilitação
-- CNH com foto: Cópia autenticada em cartório ou cópia simples com apresentação do original.
-- CNH sem foto: Cópia autenticada em cartório do CPF e da Carteira de Identidade ou apresentar cópia simples com apresentação dos documentos originais (CPF e Carteira de Identidade).]]></requisitos>
+            <requisitos/>
         </solicitante>
         <solicitante>
             <tipo>Terceiros</tipo>
-            <requisitos><![CDATA[Terceiros
-CNH - Carteira Nacional de Habilitação
-Cópia autenticada ou cópia simples com apresentação do original da CNH do condutor.
-
-Documentação do Condutor
-Deverá ser apresentada a documentação do Condutor.
-
-Procuração Pública
-Deverá ser entregue a procuração original ou 1 (uma) cópia autenticada. 
-Observação: 
-A procuração NÃO precisa ser especifica para Certidão de Prontuário (Nada Consta de Pontuação), podendo ser para outras providências junto ao DETRAN e demais órgãos públicos.]]></requisitos>
+            <requisitos/>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
