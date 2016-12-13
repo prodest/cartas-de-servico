@@ -21,14 +21,23 @@
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <descricao/>
+        <ate max="999" unidade="dias-uteis"/>
+        <descricao><![CDATA[Após pagamento das taxas e retorno ao órgão]]></descricao>
     </tempo-total-estimado>
     <etapas>
         <etapa>
             <titulo>Dirigir-se, com seu veículo, para a área de Vistoria do Detran</titulo>
             <descricao><![CDATA[Tendo em mãos os documentos necessários para dar início ao serviço solicitado.]]></descricao>
             <documentos>
-                <default/>
+                <default>
+                    <item>Carteira de Identidade</item>
+                    <item>CPF - Cadastro de Pessoa Física</item>
+                    <item>CNPJ (quando solicitado pelo proprietário pessoa jurídica)</item>
+                    <item>Contrato Social ou Estatuto (quando solicitado pelo proprietário pessoa jurídica)</item>
+                    <item>Comprovante de Residência</item>
+                    <item>Documentação do Proprietário do Veículo (quando solicitado por terceiros)</item>
+                    <item>Procuração Pública (quando solicitado por terceiros)</item>
+                </default>
             </documentos>
             <custos>
                 <default/>
