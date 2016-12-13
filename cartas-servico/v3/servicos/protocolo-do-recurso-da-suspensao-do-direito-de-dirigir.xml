@@ -40,8 +40,8 @@
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>O cidadão receberá um número de protocolo e deverá acompanhar seu processo através do disque Detran 154 ou no site do [Detran] (http://www.detran.es.gov.br/)</titulo>
-            <descricao/>
+            <titulo>O cidadão receberá um número de protocolo e deverá acompanhar seu processo através do disque Detran 154 ou no site do Detran</titulo>
+            <descricao><![CDATA[[Detran] (http://www.detran.es.gov.br/)]]></descricao>
             <documentos>
                 <default/>
             </documentos>
