@@ -28,7 +28,8 @@ Será emitido um novo documento CRV/CRLV em que será retirada a informação de
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <descricao/>
+        <ate max="999" unidade="dias-uteis"/>
+        <descricao><![CDATA[Após pagamento das taxas e retorno ao órgão]]></descricao>
     </tempo-total-estimado>
     <etapas>
         <etapa>
