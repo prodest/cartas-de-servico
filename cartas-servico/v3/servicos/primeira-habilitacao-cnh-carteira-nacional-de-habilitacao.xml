@@ -40,7 +40,7 @@
         </etapa>
         <etapa>
             <titulo>Dirigir-se aos pontos para coleta da biometria do Detran</titulo>
-            <descricao/>
+            <descricao><![CDATA[Após aberto o processo]]></descricao>
             <documentos>
                 <default/>
             </documentos>
