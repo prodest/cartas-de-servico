@@ -17,7 +17,7 @@
     </solicitantes>
     <tempo-total-estimado>
         <ate max="5" unidade="dias-uteis"/>
-        <descricao/>
+        <descricao><![CDATA[Após o final do processo]]></descricao>
     </tempo-total-estimado>
     <etapas>
         <etapa>
