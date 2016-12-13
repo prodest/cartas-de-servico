@@ -33,10 +33,21 @@ Será emitido um novo documento CRV/CRLV em que será retirada a informação de
     </tempo-total-estimado>
     <etapas>
         <etapa>
-            <titulo>Dirigir-se, com seu veículo, para a área de Vistoria do Detran, munido dos documentos necessários para dar início ao serviço desejado.</titulo>
-            <descricao/>
+            <titulo>Dirigir-se, com seu veículo, para a área de Vistoria do Detran</titulo>
+            <descricao><![CDATA[Tendo em mãos os documentos necessários para dar início ao serviço desejado.]]></descricao>
             <documentos>
-                <default/>
+                <default>
+                    <item>Carteira de Identidade</item>
+                    <item>Comprovante de Residência</item>
+                    <item>CPF - Cadastro de Pessoa Física</item>
+                    <item>CRV - Certificado de Registro de Veículo</item>
+                    <item>Credencial do despachante</item>
+                    <item>Documentação do Proprietário do Veículo</item>
+                    <item>Termo de Responsabilidade (quando solicitado pelo despachante)</item>
+                    <item>CNPJ - Cadastro Nacional de Pessoa Jurídica</item>
+                    <item>Contrato Social ou Estatuto (quando solicitado pelo proprietário pessoa jurídica)</item>
+                    <item>Procuração Pública (quando solicitado por terceiros)</item>
+                </default>
             </documentos>
             <custos>
                 <default/>
