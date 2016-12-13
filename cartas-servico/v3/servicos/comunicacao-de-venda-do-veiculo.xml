@@ -29,7 +29,15 @@
             <titulo>O proprietário vendedor do veículo deve dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
             <descricao><![CDATA[Para protocolar requerimento solicitando o serviço]]></descricao>
             <documentos>
-                <default/>
+                <default>
+                    <item>Carteira de Identidade</item>
+                    <item>CPF - Cadastro de Pessoa Física</item>
+                    <item>CRV - Certificado de Registro de Veículo</item>
+                    <item>Requerimento de Comunicação de Venda</item>
+                    <item>CNPJ (quando solicitado pelo proprietário pessoa jurídica)</item>
+                    <item>Documentação do Proprietário do Veículo (quando solicitado por terceiros)</item>
+                    <item>Procuração Pública (quando solicitado por terceiros)</item>
+                </default>
             </documentos>
             <custos>
                 <default/>
