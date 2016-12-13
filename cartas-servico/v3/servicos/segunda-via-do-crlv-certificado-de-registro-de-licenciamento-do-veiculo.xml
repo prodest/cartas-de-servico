@@ -29,7 +29,15 @@
             <titulo>Dirigir-se, sem o veículo, para a Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
             <descricao><![CDATA[Tendo em mãos os documentos necessários para dar início ao serviço desejado.]]></descricao>
             <documentos>
-                <default/>
+                <default>
+                    <item>Carteira de Identidade</item>
+                    <item>CPF - Cadastro de Pessoa Física</item>
+                    <item>Comprovante de Residência</item>
+                    <item>CNPJ (quando solicitado pelo proprietário pessoa jurídica)</item>
+                    <item>Contrato Social ou Estatuto (quando solicitado pelo proprietário pessoa jurídica)</item>
+                    <item>Documentação do Proprietário do Veículo (quando solicitado por terceiros)</item>
+                    <item>Procuração Pública (quando solicitado por terceiros)</item>
+                </default>
             </documentos>
             <custos>
                 <default/>
