@@ -34,7 +34,20 @@ Será emitido um novo documento CRV/CRLV em que será retirada a informação de
     <etapas>
         <etapa>
             <titulo>Dirigir-se, com seu veículo, para a área de Vistoria do Detran</titulo>
-            <descricao><![CDATA[Tendo em mãos os documentos necessários para dar início ao serviço desejado.]]></descricao>
+            <descricao/>
+            <documentos>
+                <default/>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+        <etapa>
+            <titulo>Dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular) de domicílio ou residência</titulo>
+            <descricao><![CDATA[Tendo em mãos os documentos necessários para obter o Nada Consta de Multas e documento de pagamento]]></descricao>
             <documentos>
                 <default>
                     <item>Carteira de Identidade</item>
@@ -48,32 +61,6 @@ Será emitido um novo documento CRV/CRLV em que será retirada a informação de
                     <item>Contrato Social ou Estatuto (quando solicitado pelo proprietário pessoa jurídica)</item>
                     <item>Procuração Pública (quando solicitado por terceiros)</item>
                 </default>
-            </documentos>
-            <custos>
-                <default/>
-            </custos>
-            <canais-de-prestacao>
-                <default/>
-            </canais-de-prestacao>
-        </etapa>
-        <etapa>
-            <titulo>Realizar vistoria do Detran</titulo>
-            <descricao/>
-            <documentos>
-                <default/>
-            </documentos>
-            <custos>
-                <default/>
-            </custos>
-            <canais-de-prestacao>
-                <default/>
-            </canais-de-prestacao>
-        </etapa>
-        <etapa>
-            <titulo>Dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular) de domicílio ou residência munido dos documentos abaixo para obter o Nada Consta de Multas e documento de pagamento</titulo>
-            <descricao/>
-            <documentos>
-                <default/>
             </documentos>
             <custos>
                 <default/>
