@@ -24,7 +24,13 @@
             <titulo>Dirigir-se á Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
             <descricao><![CDATA[Tendo em mãos os documentos necessários para solicitar o serviço desejado]]></descricao>
             <documentos>
-                <default/>
+                <default>
+                    <item>CNH - Carteira Nacional de Habilitação</item>
+                    <item>Notificação de Instauração de Procedimento Administrativo de Suspensão do Direito de Dirigir</item>
+                    <item>Requerimento preenchido e assinado</item>
+                    <item>Documentação do Condutor (quando solicitado por terceiros)</item>
+                    <item>Procuração Pública (quando solicitado por terceiros)</item>
+                </default>
             </documentos>
             <custos>
                 <default/>
