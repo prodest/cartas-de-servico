@@ -21,7 +21,8 @@
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
-        <descricao/>
+        <ate max="999" unidade="dias-uteis"/>
+        <descricao><![CDATA[No mesmo dia do pagamento das taxas e entrega do seu comprovante de pagamento no Ciretran ou Pav]]></descricao>
     </tempo-total-estimado>
     <etapas>
         <etapa>
