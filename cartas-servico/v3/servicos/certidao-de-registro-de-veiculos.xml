@@ -27,7 +27,7 @@
     <etapas>
         <etapa>
             <titulo>Dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular), pegar senha para atendimento, e receber DUA para pagamento da taxa do serviço</titulo>
-            <descricao/>
+            <descricao><![CDATA[Tendo em mãos os documentos necessários]]></descricao>
             <documentos>
                 <default>
                     <item>Carteira de Identidade</item>
