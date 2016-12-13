@@ -3,7 +3,7 @@
     <nome><![CDATA[Certidão de Prontuário CNH (Carteira Nacional de Habilitação)]]></nome>
     <sigla/>
     <nomes-populares/>
-    <descricao><![CDATA[Certidão emitida pelo DETRAN que informa quantos pontos o condutor possui em sua habilitação nos últimos 12 meses.]]></descricao>
+    <descricao><![CDATA[Certidão emitida pelo Detran que informa quantos pontos o condutor possui em sua habilitação nos últimos 12 meses.]]></descricao>
     <contato><![CDATA[154]]></contato>
     <gratuito>false</gratuito>
     <solicitantes>
