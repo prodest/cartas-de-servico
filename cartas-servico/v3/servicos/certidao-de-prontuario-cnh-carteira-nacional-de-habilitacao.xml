@@ -22,8 +22,8 @@
     </tempo-total-estimado>
     <etapas>
         <etapa>
-            <titulo>Dirigir-se ao Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
-            <descricao><![CDATA[Tendo em mãos os documentos necessários para solicitar o serviço desejado e retirar o DUA para pagamento da taxa de serviço]]></descricao>
+            <titulo>Dirigir-se ao Ciretran ou Pav</titulo>
+            <descricao><![CDATA[Dirigir-se ao Ciretran ou Pav (Posto de Atendimento Veicular), tendo em mãos os documentos necessários para solicitar o serviço desejado e retirar o DUA para pagamento da taxa de serviço]]></descricao>
             <documentos>
                 <default>
                     <item>CNH - Carteira Nacional de Habilitação</item>
