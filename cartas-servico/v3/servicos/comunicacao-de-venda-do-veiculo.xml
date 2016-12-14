@@ -26,8 +26,8 @@
     </tempo-total-estimado>
     <etapas>
         <etapa>
-            <titulo>O proprietário vendedor do veículo deve dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
-            <descricao><![CDATA[Para protocolar requerimento solicitando o serviço]]></descricao>
+            <titulo>Dirigir-se à Ciretran ou Pav</titulo>
+            <descricao><![CDATA[O proprietário vendedor do veículo deve dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular), para protocolar requerimento solicitando o serviço]]></descricao>
             <documentos>
                 <default>
                     <item>Carteira de Identidade</item>
@@ -43,12 +43,16 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Ciretran ou Pav (Posto de Atendimento Veicular)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Com o número de protocolo o cidadão poderá acompanhar seu processo através do Disque Detran 154 ou no site do Detran</titulo>
-            <descricao/>
+            <titulo>Acompanhar processo</titulo>
+            <descricao><![CDATA[Com o número de protocolo o cidadão poderá acompanhar seu processo através do Disque Detran 154 ou no site do Detran]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -56,19 +60,29 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="telefone">
+                        <descricao><![CDATA[Através do Disque Detran **154**]]></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao tipo="web">
+                        <descricao><![CDATA[Site do [Detran] (http://www.detran.es.gov.br/)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
     <orgao id="https://api.es.gov.br/organograma/11298"/>
-    <segmentos-da-sociedade/>
+    <segmentos-da-sociedade>
+        <item>Cidadãos</item>
+    </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Transporte Rodoviário</item>
         <item>Transportes</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item>venda</item>
-        <item>veículo</item>
+        <item>Venda</item>
+        <item>Veículo</item>
+        <item>Comunicação de venda do veículo</item>
     </palavras-chave>
     <legislacoes/>
 </servico>
