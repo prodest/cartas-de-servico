@@ -17,6 +17,7 @@
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
+        <ate max="999" unidade="dias-uteis"/>
         <descricao/>
     </tempo-total-estimado>
     <etapas>
