@@ -105,7 +105,7 @@
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao><![CDATA[Casas Lotéricas ou em qualquer Banco (até a data de vencimento)]]></descricao>
+                        <descricao><![CDATA[Casas Lotéricas ou em qualquer banco (até a data de vencimento)]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
