@@ -35,7 +35,7 @@
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao><![CDATA[Qualquer Centro de Formação de Condutores (CFC) credenciado]]></descricao>
+                        <descricao><![CDATA[Centro de Formação de Condutores (CFC) credenciado]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
@@ -52,7 +52,7 @@
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao/>
+                        <descricao><![CDATA[Centro de Formação de Condutores (CFC) credenciado]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
@@ -103,7 +103,8 @@
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao/>
+                        <descricao><![CDATA[Casas Lotéricas
+Qualquer Banco - Até a data de vencimento]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
