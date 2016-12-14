@@ -103,8 +103,7 @@
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao><![CDATA[Casas Lotéricas
-Qualquer Banco - Até a data de vencimento]]></descricao>
+                        <descricao><![CDATA[Casas Lotéricas ou em qualquer Banco (até a data de vencimento)]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
@@ -121,7 +120,7 @@ Qualquer Banco - Até a data de vencimento]]></descricao>
             <canais-de-prestacao>
                 <default>
                     <canal-de-prestacao tipo="presencial">
-                        <descricao/>
+                        <descricao><![CDATA[Centro de Formação de Condutores (CFC) credenciado]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
