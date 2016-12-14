@@ -26,8 +26,8 @@
     </tempo-total-estimado>
     <etapas>
         <etapa>
-            <titulo>Dirigir-se, sem o veículo, para a Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
-            <descricao><![CDATA[Tendo em mãos os documentos necessários para dar início ao serviço desejado.]]></descricao>
+            <titulo>Dirigir-se à Ciretran ou Pav</titulo>
+            <descricao><![CDATA[Dirigir-se, sem o veículo, para a Ciretran ou Pav (Posto de Atendimento Veicular), tendo em mãos os documentos necessários para dar início ao serviço desejado.]]></descricao>
             <documentos>
                 <default>
                     <item>Carteira de Identidade</item>
@@ -43,12 +43,16 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Dirigir-se à recepção do Ciretran ou Pav, retirar senha para atendimento e abertura do processo</titulo>
-            <descricao/>
+            <titulo>Dirigir-se à Ciretran ou Pav</titulo>
+            <descricao><![CDATA[Dirigir-se à recepção do Ciretran ou Pav (Posto de Atendimento Veicular), retirar senha para atendimento e abertura do processo]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -56,7 +60,11 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
@@ -75,12 +83,16 @@
                 </default>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Casas lotéricas ou em qualquer banco (até a data de vencimento)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Retornar à Ciretran ou Pav para finalizar o processo e pegar o documento (segunda via CRLV)</titulo>
-            <descricao/>
+            <titulo>Retornar à Ciretran ou Pav</titulo>
+            <descricao><![CDATA[Retornar à Ciretran ou Pav para finalizar o processo e pegar o documento (segunda via CRLV)]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -88,16 +100,26 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Ciretran ou Pav (Posto de Atendimento Veicular)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
     <orgao id="https://api.es.gov.br/organograma/11298"/>
-    <segmentos-da-sociedade/>
+    <segmentos-da-sociedade>
+        <item>Cidadãos</item>
+    </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Transporte Rodoviário</item>
         <item>Transportes</item>
     </areas-de-interesse>
-    <palavras-chave/>
+    <palavras-chave>
+        <item>Segunda via</item>
+        <item>Certificado de Registro de Licenciamento do Veiculo</item>
+        <item>CRLV</item>
+    </palavras-chave>
     <legislacoes/>
 </servico>
