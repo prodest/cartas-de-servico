@@ -50,12 +50,16 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao/>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Em seguida, deve dirigir-se a uma Clínica Credenciada para a realização de exames de sanidade física e mental, bem como a avaliação psicológica (se exercer atividade remunerada)</titulo>
-            <descricao/>
+            <titulo>Dirigir-se a uma Clínica Credenciada</titulo>
+            <descricao><![CDATA[Em seguida, deve dirigir-se a uma Clínica Credenciada para a realização de exames de sanidade física e mental, bem como a avaliação psicológica (se exercer atividade remunerada)]]></descricao>
             <documentos>
                 <default/>
             </documentos>
