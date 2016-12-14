@@ -43,7 +43,11 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Área de Vistoria do Detran]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
@@ -56,12 +60,16 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao/>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Dirigir-se à recepção à Ciretran ou Pav (Posto de Atendimento Veicular), pegar senha para atendimento e abertura do processo</titulo>
-            <descricao/>
+            <titulo>Dirigir-se à recepção à Ciretran ou Pav</titulo>
+            <descricao><![CDATA[Dirigir-se à recepção à Ciretran ou Pav (Posto de Atendimento Veicular), pegar senha para atendimento e abertura do processo]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -69,12 +77,16 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Dirigir-se à rede bancária autorizada e efetuar pagamento do Dua da Polícia Civil e do Detran</titulo>
-            <descricao/>
+            <titulo>Dirigir-se à rede bancária</titulo>
+            <descricao><![CDATA[Dirigir-se à rede bancária autorizada e efetuar pagamento do Dua da Polícia Civil e do Detran]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -93,7 +105,11 @@
                 </default>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Casas lotéricas ou em qualquer banco (até a data de vencimento)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
@@ -106,19 +122,26 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
     <orgao id="https://api.es.gov.br/organograma/11298"/>
-    <segmentos-da-sociedade/>
+    <segmentos-da-sociedade>
+        <item>Cidadãos</item>
+    </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Transporte Rodoviário</item>
         <item>Transportes</item>
     </areas-de-interesse>
     <palavras-chave>
-        <item>Registro de Veículo</item>
+        <item>Certificado de Registro de Veículo</item>
         <item>Departamento Estadual de Trânsito</item>
+        <item>Segunda via do CRV</item>
     </palavras-chave>
     <legislacoes/>
 </servico>
