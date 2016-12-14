@@ -42,12 +42,16 @@ Será emitido um novo documento CRV/CRLV em que será retirada a informação de
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Área de Vistoria do Detran]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular) de domicílio ou residência</titulo>
-            <descricao><![CDATA[Tendo em mãos os documentos necessários para obter o Nada Consta de Multas e documento de pagamento]]></descricao>
+            <titulo>Dirigir-se à Ciretran ou Pav</titulo>
+            <descricao><![CDATA[Dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular), tendo em mãos os documentos necessários para obter o Nada Consta de Multas e documento de pagamento]]></descricao>
             <documentos>
                 <default>
                     <item>Carteira de Identidade</item>
@@ -66,7 +70,11 @@ Será emitido um novo documento CRV/CRLV em que será retirada a informação de
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Dirigir-se à Ciretran ou Pav (Posto de Atendimento Veicular)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
@@ -85,7 +93,11 @@ Será emitido um novo documento CRV/CRLV em que será retirada a informação de
                 </default>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Casas lotéricas ou em qualquer banco (até a data de vencimento)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
@@ -98,7 +110,11 @@ Será emitido um novo documento CRV/CRLV em que será retirada a informação de
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao/>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
@@ -111,7 +127,11 @@ Será emitido um novo documento CRV/CRLV em que será retirada a informação de
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Ciretran ou Pav (Posto de Atendimento Veicular)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
