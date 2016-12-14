@@ -21,8 +21,8 @@
     </tempo-total-estimado>
     <etapas>
         <etapa>
-            <titulo>Dirigir-se á Ciretran ou Pav (Posto de Atendimento Veicular)</titulo>
-            <descricao><![CDATA[Tendo em mãos os documentos necessários para solicitar o serviço desejado]]></descricao>
+            <titulo>Dirigir-se á Ciretran ou Pav</titulo>
+            <descricao><![CDATA[Dirigir-se á Ciretran ou Pav (Posto de Atendimento Veicular), tendo em mãos os documentos necessários para solicitar o serviço desejado]]></descricao>
             <documentos>
                 <default>
                     <item>CNH - Carteira Nacional de Habilitação</item>
@@ -36,12 +36,16 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Dirigir-se á Ciretran ou Pav (Posto de Atendimento Veicular)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>O cidadão receberá um número de protocolo e deverá acompanhar seu processo através do disque Detran 154 ou no site do Detran</titulo>
-            <descricao/>
+            <titulo>Acompanhar o processo</titulo>
+            <descricao><![CDATA[O cidadão receberá um número de protocolo e deverá acompanhar seu processo através do disque Detran 154 ou no site do Detran]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -49,12 +53,21 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="telefone">
+                        <descricao><![CDATA[Disque Detran **154**]]></descricao>
+                    </canal-de-prestacao>
+                    <canal-de-prestacao tipo="web-acompanhar">
+                        <descricao><![CDATA[http://www.detran.es.gov.br/]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
     <orgao id="https://api.es.gov.br/organograma/11298"/>
-    <segmentos-da-sociedade/>
+    <segmentos-da-sociedade>
+        <item>Cidadãos</item>
+    </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Transporte Rodoviário</item>
         <item>Transportes</item>
@@ -62,6 +75,7 @@
     <palavras-chave>
         <item>Suspensão</item>
         <item>Carteira Nacional de Habilitação</item>
+        <item>Suspensão do direito de dirigir</item>
     </palavras-chave>
     <legislacoes/>
 </servico>
