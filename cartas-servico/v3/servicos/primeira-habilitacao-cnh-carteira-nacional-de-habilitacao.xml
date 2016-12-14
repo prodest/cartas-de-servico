@@ -35,7 +35,11 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Centro de Formação de Condutores (CFC)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
@@ -48,12 +52,16 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Centro de Formação de Condutores (CFC)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Dirigir-se a uma Clínica Credenciada para a realização de exames de sanidade física e mental, bem como a avaliação psicológica (se exercer atividade remunerada)</titulo>
-            <descricao/>
+            <titulo>Dirigir-se a uma Clínica Credenciada</titulo>
+            <descricao><![CDATA[Dirigir-se a uma Clínica Credenciada para a realização de exames de sanidade física e mental, bem como a avaliação psicológica (se exercer atividade remunerada)]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -72,12 +80,16 @@
                 </default>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Clínica Credenciada]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Se considerado apto, efetuar o pagamento da taxa de serviço do Detran-ES</titulo>
-            <descricao/>
+            <titulo>Efetuar o pagamento da taxa de serviço do Detran-ES</titulo>
+            <descricao><![CDATA[Se o condutor for considerado apto]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -91,11 +103,15 @@
                 </default>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Casas Lotéricas ou em qualquer Banco (até a data de vencimento)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Realizar curso prático de direção veicular com no mínimo 15 (quinze) horas/aula cada no CFC</titulo>
+            <titulo>Realizar curso prático de direção veicular</titulo>
             <descricao><![CDATA[Com no mínimo 15 (quinze) horas/aula cada no CFC]]></descricao>
             <documentos>
                 <default/>
@@ -104,12 +120,16 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Centro de Formação de Condutores (CFC)]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
-            <titulo>Realizar prova prática de direção veicular, em data marcada pelo próprio CFC</titulo>
-            <descricao/>
+            <titulo>Realizar prova prática de direção veicular</titulo>
+            <descricao><![CDATA[Em data marcada pelo próprio CFC]]></descricao>
             <documentos>
                 <default/>
             </documentos>
@@ -117,7 +137,11 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao/>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
@@ -130,7 +154,11 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="postal">
+                        <descricao/>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
         <etapa>
@@ -143,18 +171,26 @@
                 <default/>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao/>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
     <orgao id="https://api.es.gov.br/organograma/11298"/>
-    <segmentos-da-sociedade/>
+    <segmentos-da-sociedade>
+        <item>Cidadãos</item>
+    </segmentos-da-sociedade>
     <areas-de-interesse>
         <item>Transporte Rodoviário</item>
         <item>Transportes</item>
     </areas-de-interesse>
     <palavras-chave>
         <item>Habilitação</item>
+        <item>Primeira habilitação</item>
+        <item>Carteira Nacional de Habilitação</item>
     </palavras-chave>
     <legislacoes/>
 </servico>
