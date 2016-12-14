@@ -65,7 +65,7 @@
                         <descricao><![CDATA[Através do Disque Detran **154**]]></descricao>
                     </canal-de-prestacao>
                     <canal-de-prestacao tipo="web">
-                        <descricao><![CDATA[Site do [Detran] (http://www.detran.es.gov.br/)]]></descricao>
+                        <descricao><![CDATA[http://www.detran.es.gov.br/]]></descricao>
                     </canal-de-prestacao>
                 </default>
             </canais-de-prestacao>
