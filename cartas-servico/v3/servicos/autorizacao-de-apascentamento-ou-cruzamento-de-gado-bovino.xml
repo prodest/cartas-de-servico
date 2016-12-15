@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome><![CDATA[Autorização de apascentamento ou cruzamento de gado bovino]]></nome>
+    <sigla/>
+    <nomes-populares/>
+    <descricao><![CDATA[Solicitação de transferência de bovinos com benefício de suspensão do pagamento do ICMS, em operações internas, feita por produtor rural, para cruzamento de gado bovino de raça e apascentamento, em propriedade de terceiros, por até 90 dias. 
+
+BASE LEGAL: Artigo 9º, Anexo II, item 9, subitens 9.3 do Regulamento do ICMS, aprovado pelo Decreto nº 1.090-R, de 25/10/2002.
+
+Atualização realizada até o Decreto n.º 3.336-R, de 24/06/2013]]></descricao>
+    <contato/>
+    <gratuito>false</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>O Responsável pelo Estabelecimento</tipo>
+            <requisitos/>
+        </solicitante>
+        <solicitante>
+            <tipo>Procurador Habilitado</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="3" unidade="dias-uteis"/>
+        <descricao><![CDATA[Prazo de retirar o documento]]></descricao>
+    </tempo-total-estimado>
+    <etapas/>
+    <orgao id=""/>
+    <segmentos-da-sociedade/>
+    <areas-de-interesse/>
+    <palavras-chave/>
+    <legislacoes/>
+</servico>
