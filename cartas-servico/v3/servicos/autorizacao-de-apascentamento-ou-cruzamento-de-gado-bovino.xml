@@ -37,16 +37,32 @@ Atualização realizada até o Decreto n.º 3.336-R, de 24/06/2013]]></descricao
                 </default>
             </documentos>
             <custos>
-                <default/>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Taxa de Requerimento]]></descricao>
+                        <moeda/>
+                        <valor>50,22</valor>
+                    </custo>
+                </default>
             </custos>
             <canais-de-prestacao>
-                <default/>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Agências da Receita Estadual ou na Central Faça Fácil de Cariacica]]></descricao>
+                    </canal-de-prestacao>
+                </default>
             </canais-de-prestacao>
         </etapa>
     </etapas>
-    <orgao id=""/>
-    <segmentos-da-sociedade/>
+    <orgao id="https://api.es.gov.br/organograma/464"/>
+    <segmentos-da-sociedade>
+        <item>Cidadãos</item>
+    </segmentos-da-sociedade>
     <areas-de-interesse/>
-    <palavras-chave/>
+    <palavras-chave>
+        <item>ICMS</item>
+        <item>Autorização de apascentamento ou cruzamento de gado bovino</item>
+        <item>Apascentamento ou cruzamento de gado bovino</item>
+    </palavras-chave>
     <legislacoes/>
 </servico>
