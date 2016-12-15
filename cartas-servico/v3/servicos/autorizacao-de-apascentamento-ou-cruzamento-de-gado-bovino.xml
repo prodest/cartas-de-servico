@@ -13,18 +13,37 @@ Atualização realizada até o Decreto n.º 3.336-R, de 24/06/2013]]></descricao
     <solicitantes>
         <solicitante>
             <tipo>O Responsável pelo Estabelecimento</tipo>
-            <requisitos/>
+            <requisitos><![CDATA[Deve possuir inscrição estadual habilitada no cadastro da Sefaz/ES, das respectivas áreas]]></requisitos>
         </solicitante>
         <solicitante>
             <tipo>Procurador Habilitado</tipo>
-            <requisitos/>
+            <requisitos><![CDATA[Deve possuir inscrição estadual habilitada no cadastro da Sefaz/ES, das respectivas áreas]]></requisitos>
         </solicitante>
     </solicitantes>
     <tempo-total-estimado>
         <ate max="3" unidade="dias-uteis"/>
         <descricao><![CDATA[Prazo de retirar o documento]]></descricao>
     </tempo-total-estimado>
-    <etapas/>
+    <etapas>
+        <etapa>
+            <titulo/>
+            <descricao/>
+            <documentos>
+                <default>
+                    <item>Documento Único de Arrecadação - DUA</item>
+                    <item>Nota Fiscal do Produtor Rural</item>
+                    <item>Procuração</item>
+                    <item>Termo de Compromisso</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default/>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
     <orgao id=""/>
     <segmentos-da-sociedade/>
     <areas-de-interesse/>
