@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome><![CDATA[Emissão do certificado crédito fiscal de gado e aves]]></nome>
+    <sigla/>
+    <nomes-populares/>
+    <descricao><![CDATA[Solicitação da emissão do certificado para utilização do crédito de ICMS, proveniente da comercialização de gado e aves. 
+
+Observações: 
+O Certificado de Crédito será emitido por espécie de gado. (RICMS, art. 330, parágrafo 3º) 
+
+A emissão do Certificado de Crédito deverá ser requerida no prazo de 30 dias, contados da data de emissão da nota fiscal que acobertou a operação. (RICMS, art. 330, parágrafo 1º)]]></descricao>
+    <contato/>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>O Responsável pelo Estabelecimento</tipo>
+            <requisitos/>
+        </solicitante>
+        <solicitante>
+            <tipo>Procurador Habilitado</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="999" unidade="dias-uteis"/>
+        <descricao/>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa>
+            <titulo>Dirija-se a uma das Agências da Receita Estadual ou na Central Faça Fácil de Cariacica</titulo>
+            <descricao><![CDATA[Tendo em mãos os documentos necessários]]></descricao>
+            <documentos>
+                <default>
+                    <item>1ª via da Nota Fiscal de Aquisição</item>
+                    <item>Comprovante de pagamento</item>
+                    <item>Procuração</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Agências da Receita Estadual ou na Central Faça Fácil de Cariacica]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="https://api.es.gov.br/organograma/464"/>
+    <segmentos-da-sociedade>
+        <item>Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse/>
+    <palavras-chave>
+        <item>Emissão</item>
+        <item>Certificado crédito fiscal</item>
+        <item>Certificado crédito fiscal de gado e aves</item>
+    </palavras-chave>
+    <legislacoes/>
+</servico>
