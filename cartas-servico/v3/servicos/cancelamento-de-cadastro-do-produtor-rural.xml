@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome><![CDATA[Cancelamento de cadastro do produtor rural]]></nome>
+    <sigla/>
+    <nomes-populares/>
+    <descricao><![CDATA[Solicitação de cancelamento de inscrição de Produtor Rural no Cadastro Geral de Contribuintes da SEFAZ.
+
+Na hipótese de transmissão da propriedade do imóvel rural, o transmitente deverá formalizar pedido de cancelamento de sua inscrição cadastral na forma no prazo de 30 dias, contados da data do encerramento.]]></descricao>
+    <contato/>
+    <gratuito>true</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>O Responsável pelo Estabelecimento</tipo>
+            <requisitos/>
+        </solicitante>
+        <solicitante>
+            <tipo>Procurador Habilitado</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="8" unidade="dias-corridos"/>
+        <descricao/>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa>
+            <titulo>Dirija-se a uma das Agências da Receita Estadual ou na Central Faça Fácil de Cariacica</titulo>
+            <descricao><![CDATA[Tendo em mãos os documentos necessários]]></descricao>
+            <documentos>
+                <default>
+                    <item>Documento Fiscal</item>
+                    <item>Ficha</item>
+                    <item>Nota Fiscal do Produtor Rural</item>
+                    <item>Requerimento</item>
+                </default>
+            </documentos>
+            <custos>
+                <default/>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Agências da Receita Estadual ou na Central Faça Fácil de Cariacica]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="https://api.es.gov.br/organograma/464"/>
+    <segmentos-da-sociedade>
+        <item>Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse/>
+    <palavras-chave>
+        <item>ICMS</item>
+        <item>Cancelamento de cadastro</item>
+        <item>Cancelamento</item>
+    </palavras-chave>
+    <legislacoes/>
+</servico>
