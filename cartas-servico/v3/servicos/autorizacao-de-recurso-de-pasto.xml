@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servico xmlns="http://servicos.gov.br/v3/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://servicos.gov.br/v3/schema ../servico.xsd">
+    <nome><![CDATA[Autorização de recurso de pasto]]></nome>
+    <sigla/>
+    <nomes-populares/>
+    <descricao><![CDATA[Solicitação de transferência de bovinos entre os Estados do Rio de Janeiro e do Espírito Santo, com suspensão do pagamento do ICMS, feita pelo produtor rural, para utilização de pastos em propriedade de terceiros, por período de 180 dias.
+
+A suspensão da cobrança do imposto será concedida exclusivamente ao gado pertencente a produtores devidamente credenciados pela Agência da Receita Estadual a que estiverem circunscritos (RICMS, art. 9º, Anexo II, item 9.1.1, "b").]]></descricao>
+    <contato/>
+    <gratuito>false</gratuito>
+    <solicitantes>
+        <solicitante>
+            <tipo>O Responsável pelo Estabelecimento</tipo>
+            <requisitos/>
+        </solicitante>
+        <solicitante>
+            <tipo>Procurador Habilitado</tipo>
+            <requisitos/>
+        </solicitante>
+    </solicitantes>
+    <tempo-total-estimado>
+        <ate max="999" unidade="dias-uteis"/>
+        <descricao/>
+    </tempo-total-estimado>
+    <etapas>
+        <etapa>
+            <titulo>Dirija-se a uma das Agências da Receita Estadual ou na Central Faça Fácil de Cariacica</titulo>
+            <descricao><![CDATA[Tendo em mãos os documentos necessários]]></descricao>
+            <documentos>
+                <default>
+                    <item>Documento Único de Arrecadação - DUA</item>
+                    <item>Nota Fiscal do Produtor Rural</item>
+                    <item>Procuração</item>
+                    <item>Termo de Compromisso</item>
+                </default>
+            </documentos>
+            <custos>
+                <default>
+                    <custo>
+                        <descricao><![CDATA[Taxa de Requerimento]]></descricao>
+                        <moeda/>
+                        <valor>50,22</valor>
+                    </custo>
+                </default>
+            </custos>
+            <canais-de-prestacao>
+                <default>
+                    <canal-de-prestacao tipo="presencial">
+                        <descricao><![CDATA[Agências da Receita Estadual ou na Central Faça Fácil de Cariacica]]></descricao>
+                    </canal-de-prestacao>
+                </default>
+            </canais-de-prestacao>
+        </etapa>
+    </etapas>
+    <orgao id="https://api.es.gov.br/organograma/464"/>
+    <segmentos-da-sociedade>
+        <item>Cidadãos</item>
+    </segmentos-da-sociedade>
+    <areas-de-interesse/>
+    <palavras-chave>
+        <item>ICMS</item>
+        <item>Autorização de recurso de pasto</item>
+        <item>Autorização</item>
+    </palavras-chave>
+    <legislacoes/>
+</servico>
